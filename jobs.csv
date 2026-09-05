@@ -1,0 +1,50 @@
+id,Job Role,Location,Salary,Python,SQL,Excel
+1,Data Analyst,Delhi,6.5,Yes,Yes,Yes
+2,Data Analyst,Mumbai,7.2,Yes,Yes,No
+3,Data Analyst,Bangalore,8.0,Yes,Yes,Yes
+4,Data Analyst,Hyderabad,6.8,Yes,Yes,Yes
+5,Data Analyst,Pune,6.2,Yes,Yes,Yes
+6,Data Analyst,Lucknow,5.0,Yes,Yes,Yes
+7,Data Analyst,Chennai,6.7,Yes,Yes,No
+8,Data Analyst,Noida,7.0,Yes,Yes,Yes
+9,Business Analyst,Bangalore,8.5,No,Yes,Yes
+10,Business Analyst,Delhi,7.8,No,Yes,Yes
+11,Business Analyst,Mumbai,9.0,No,Yes,Yes
+12,Business Analyst,Pune,7.5,No,Yes,Yes
+13,Business Analyst,Hyderabad,8.2,No,Yes,Yes
+14,Data Scientist,Delhi,11.5,Yes,Yes,No
+15,Data Scientist,Bangalore,13.0,Yes,Yes,No
+16,Data Scientist,Mumbai,12.0,Yes,Yes,No
+17,Data Scientist,Hyderabad,10.5,Yes,Yes,No
+18,Data Scientist,Pune,9.8,Yes,Yes,No
+19,Data Scientist,Chennai,10.2,Yes,Yes,No
+20,Python Developer,Bangalore,8.8,Yes,Yes,No
+21,Python Developer,Hyderabad,8.0,Yes,Yes,No
+22,Python Developer,Pune,7.5,Yes,Yes,No
+23,Python Developer,Delhi,7.8,Yes,Yes,No
+24,Python Developer,Noida,7.2,Yes,Yes,No
+25,Software Developer,Bangalore,7.5,Yes,No,No
+26,Software Developer,Hyderabad,7.8,Yes,No,No
+27,Software Developer,Pune,6.8,Yes,No,No
+28,Software Developer,Chennai,6.5,Yes,No,No
+29,Software Developer,Delhi,7.0,Yes,No,No
+30,SQL Developer,Mumbai,7.0,No,Yes,Yes
+31,SQL Developer,Bangalore,7.8,No,Yes,Yes
+32,SQL Developer,Chennai,6.5,No,Yes,Yes
+33,SQL Developer,Noida,6.8,No,Yes,Yes
+34,BI Analyst,Bangalore,9.0,No,Yes,Yes
+35,BI Analyst,Mumbai,8.5,No,Yes,Yes
+36,BI Analyst,Delhi,8.0,No,Yes,Yes
+37,BI Analyst,Pune,7.8,No,Yes,Yes
+38,Machine Learning Engineer,Bangalore,14.0,Yes,Yes,No
+39,Machine Learning Engineer,Hyderabad,12.5,Yes,Yes,No
+40,Machine Learning Engineer,Delhi,13.0,Yes,Yes,No
+41,Machine Learning Engineer,Pune,11.8,Yes,Yes,No
+42,Data Engineer,Bangalore,11.0,Yes,Yes,No
+43,Data Engineer,Hyderabad,10.5,Yes,Yes,No
+44,Data Engineer,Pune,9.5,Yes,Yes,No
+45,Data Engineer,Delhi,10.0,Yes,Yes,No
+46,Reporting Analyst,Mumbai,6.5,No,Yes,Yes
+47,Reporting Analyst,Delhi,6.2,No,Yes,Yes
+48,Reporting Analyst,Pune,6.0,No,Yes,Yes
+49,Reporting Analyst,Lucknow,5.2,No,Yes,Yes
