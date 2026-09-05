@@ -110,12 +110,15 @@ st.metric(
     "🔎 Matching Jobs",
     len(filtered_jobs)
 )
+if len(filtered_jobs) == 0:
+    st.warning("No jobs match your selected filters.")
+    st.stop()
 st.write(
     f"Average salary for these jobs: "
     f"**{filtered_jobs['Salary'].mean():.1f} LPA**"
 )
 
-st.dataframe(filtered_jobs, use_container_width=True)
+st.dataframe(filtered_jobs, width="stretch")
 csv = filtered_jobs.to_csv(index=False)
 
 st.download_button(
